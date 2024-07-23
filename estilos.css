@@ -328,6 +328,7 @@ body{
     left: 150px;
 }
 .lock-p{
+    text-align:center;
     position: absolute;
     left: 270px;
     margin:15px;
